@@ -1,15 +1,6 @@
-# Chamilo 2
+## Timetolearn 
+Timetolearn est un leaning Management System il est le fork de chamilo 1.11, il est utilisé dans le cadre d'une formation Devops pour tester un environnement Devops. Il n'a pas vocation a être exploité en production.
 
-[![Behat tests 🐞](https://github.com/chamilo/chamilo-lms/actions/workflows/behat.yml/badge.svg)](https://github.com/chamilo/chamilo-lms/actions/workflows/behat.yml)
-[![PHPUnit 🐛](https://github.com/chamilo/chamilo-lms/actions/workflows/phpunit.yml/badge.svg)](https://github.com/chamilo/chamilo-lms/actions/workflows/phpunit.yml)
-[![PHP static analysis ✨](https://github.com/chamilo/chamilo-lms/actions/workflows/php_analysis.yml/badge.svg)](https://github.com/chamilo/chamilo-lms/actions/workflows/php_analysis.yml)
-[![PHP format code 🔎](https://github.com/chamilo/chamilo-lms/actions/workflows/format_code.yml/badge.svg)](https://github.com/chamilo/chamilo-lms/actions/workflows/format_code.yml)
-[![codecov](https://codecov.io/gh/chamilo/chamilo-lms/branch/master/graph/badge.svg?token=46YggfLZnY)](https://codecov.io/gh/chamilo/chamilo-lms)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/chamilo/chamilo-lms/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/chamilo/chamilo-lms/?branch=master)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/166/badge)](https://bestpractices.coreinfrastructure.org/projects/166)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/88e934aab2f34bb7a0397a6f62b078b2)](https://www.codacy.com/app/chamilo/chamilo-lms?utm_source=github.com&utm_medium=referral&utm_content=chamilo/chamilo-lms&utm_campaign=badger)
-
-Chamilo is an e-learning platform, also called "LMS", published under the GNU/GPLv3+ license. It has been used by more than 30M people worldwide since its inception in 2010. This is a development version. For the current stable branch, please select the 1.11.x branch in the Code tab.
 
 ## Quick install
 
